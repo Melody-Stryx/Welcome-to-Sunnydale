@@ -5098,7 +5098,7 @@
           "directionFix": false,
           "image": {
             "characterIndex": 0,
-            "characterName": "Buffy_GBA",
+            "characterName": "",
             "direction": 4,
             "pattern": 0,
             "tileId": 0
@@ -14300,17 +14300,6 @@
               "code": 203,
               "indent": 0,
               "parameters": [
-                9,
-                0,
-                11,
-                9,
-                4
-              ]
-            },
-            {
-              "code": 203,
-              "indent": 0,
-              "parameters": [
                 17,
                 0,
                 12,
@@ -14353,7 +14342,7 @@
               "code": 205,
               "indent": 0,
               "parameters": [
-                9,
+                -1,
                 {
                   "list": [
                     {
@@ -14497,7 +14486,7 @@
               "code": 205,
               "indent": 0,
               "parameters": [
-                9,
+                -1,
                 {
                   "list": [
                     {
@@ -14621,7 +14610,7 @@
               "code": 205,
               "indent": 0,
               "parameters": [
-                9,
+                -1,
                 {
                   "list": [
                     {
@@ -14700,7 +14689,7 @@
               "code": 205,
               "indent": 0,
               "parameters": [
-                9,
+                -1,
                 {
                   "list": [
                     {
@@ -15334,7 +15323,7 @@
               "code": 205,
               "indent": 0,
               "parameters": [
-                9,
+                -1,
                 {
                   "list": [
                     {
